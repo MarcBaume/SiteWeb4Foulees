@@ -1,0 +1,218 @@
+{
+  "GeneralParPoint": null,
+  "ListTariffZone": {
+    "ListItem": [
+      {
+        "$type": "ChronoV4WPF.ClassTariffZone, ChronoV4WPF",
+        "NomZone": {
+          "_Value": "Inscriptions sur internet"
+        },
+        "dateEndZone": {
+          "_Value": "2025-08-18 23:59:59"
+        },
+        "ListTarif": [
+          {
+            "tarif": {
+              "_Value": "20"
+            },
+            "NomOption": {
+              "_Value": "1 étape"
+            },
+            "OnLine": {
+              "oldValue": false,
+              "Title": "On line",
+              "Value": true,
+              "VisibilityTitle": 0,
+              "ReadOnly": false
+            },
+            "T_shirt": {
+              "_Value": "0"
+            }
+          },
+          {
+            "tarif": {
+              "_Value": "40"
+            },
+            "NomOption": {
+              "_Value": "2 étapes"
+            },
+            "OnLine": {
+              "oldValue": false,
+              "Title": "On line",
+              "Value": true,
+              "VisibilityTitle": 0,
+              "ReadOnly": false
+            },
+            "T_shirt": {
+              "_Value": "0"
+            }
+          },
+          {
+            "tarif": {
+              "_Value": "50"
+            },
+            "NomOption": {
+              "_Value": "3 étapes"
+            },
+            "OnLine": {
+              "oldValue": false,
+              "Title": "On line",
+              "Value": true,
+              "VisibilityTitle": 0,
+              "ReadOnly": false
+            },
+            "T_shirt": {
+              "_Value": "0"
+            }
+          },
+          {
+            "tarif": {
+              "_Value": "50"
+            },
+            "NomOption": {
+              "_Value": "4 étapes"
+            },
+            "OnLine": {
+              "oldValue": false,
+              "Title": "On line",
+              "Value": true,
+              "VisibilityTitle": 0,
+              "ReadOnly": false
+            },
+            "T_shirt": {
+              "_Value": "0"
+            }
+          }
+        ],
+        "MaximumInscription": {
+          "_Value": ""
+        },
+        "ID": {
+          "_Value": "1"
+        },
+        "Nom": {
+          "_Value": "Inscriptions"
+        },
+        "Distance": {
+          "_Value": ""
+        },
+        "Denivelle": {
+          "_Value": ""
+        }
+      },
+      {
+        "$type": "ChronoV4WPF.ClassTariffZone, ChronoV4WPF",
+        "NomZone": {
+          "_Value": "Inscriptions sur place"
+        },
+        "dateEndZone": {
+          "_Value": "2025-09-11 23:59:59"
+        },
+        "ListTarif": [
+          {
+            "tarif": {
+              "_Value": "20"
+            },
+            "NomOption": {
+              "_Value": "1 étape"
+            },
+            "OnLine": {
+              "oldValue": false,
+              "Title": "On line",
+              "Value": false,
+              "VisibilityTitle": 0,
+              "ReadOnly": false
+            },
+            "T_shirt": {
+              "_Value": "0"
+            }
+          },
+          {
+            "tarif": {
+              "_Value": "40"
+            },
+            "NomOption": {
+              "_Value": "2 étapes"
+            },
+            "OnLine": {
+              "oldValue": false,
+              "Title": "On line",
+              "Value": false,
+              "VisibilityTitle": 0,
+              "ReadOnly": false
+            },
+            "T_shirt": {
+              "_Value": "0"
+            }
+          },
+          {
+            "tarif": {
+              "_Value": "60"
+            },
+            "NomOption": {
+              "_Value": "3 étapes"
+            },
+            "OnLine": {
+              "oldValue": false,
+              "Title": "On line",
+              "Value": false,
+              "VisibilityTitle": 0,
+              "ReadOnly": false
+            },
+            "T_shirt": {
+              "_Value": "0"
+            }
+          },
+          {
+            "tarif": {
+              "_Value": "60"
+            },
+            "NomOption": {
+              "_Value": "4 étapes"
+            },
+            "OnLine": {
+              "oldValue": false,
+              "Title": "On line",
+              "Value": false,
+              "VisibilityTitle": 0,
+              "ReadOnly": false
+            },
+            "T_shirt": {
+              "_Value": "0"
+            }
+          }
+        ],
+        "MaximumInscription": {
+          "_Value": ""
+        },
+        "ID": {
+          "_Value": "2"
+        },
+        "Nom": {
+          "_Value": "Inscriptions sur place"
+        },
+        "Distance": {
+          "_Value": ""
+        },
+        "Denivelle": {
+          "_Value": ""
+        }
+      }
+    ]
+  },
+  "ListOptionReduction": {
+    "ListItem": []
+  },
+  "ID": {
+    "_Value": "1"
+  },
+  "Nom": {
+    "_Value": "Adultes"
+  },
+  "Distance": {
+    "_Value": ""
+  },
+  "Denivelle": {
+    "_Value": ""
+  }
+}

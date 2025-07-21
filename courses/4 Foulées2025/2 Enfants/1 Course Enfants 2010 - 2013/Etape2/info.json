@@ -1,0 +1,100 @@
+{
+  "Date": {
+    "_Value": "2025-09-03"
+  },
+  "xContreLaMontre": {
+    "oldValue": false,
+    "Title": "Contre la montre",
+    "Value": false,
+    "VisibilityTitle": 0,
+    "ReadOnly": false
+  },
+  "xClassmeentNombreTour": {
+    "oldValue": false,
+    "Title": "Nombre tour",
+    "Value": false,
+    "VisibilityTitle": 0,
+    "ReadOnly": false
+  },
+  "HeureDepart": {
+    "_Value": "18:00"
+  },
+  "HeureEnd": {
+    "_Value": ""
+  },
+  "Lieu": {
+    "_Value": "Saignelégier"
+  },
+  "ListDiscipline": {
+    "ListItem": []
+  },
+  "ListPointPassage": {
+    "ListItem": [
+      {
+        "$type": "ChronoV4WPF.ClassPointPassage, ChronoV4WPF",
+        "IdTapis": {
+          "_Value": ""
+        },
+        "EType": 2,
+        "HeureEnd": {
+          "_Value": ""
+        },
+        "ColorDetection": "#FFFFD700",
+        "HeureStart": {
+          "_Value": "18:03:00"
+        },
+        "TempsInterpassageSeconde": 30,
+        "ID": {
+          "_Value": "1"
+        },
+        "Nom": {
+          "_Value": "Tour1 1"
+        },
+        "Distance": {
+          "_Value": ""
+        },
+        "Denivelle": {
+          "_Value": ""
+        }
+      }
+    ]
+  },
+  "structurePrintResultat": {
+    "xWithPointPassage": false,
+    "xResultatCategorie": true,
+    "xResultatScratch": false,
+    "xResultatHommesDames": false,
+    "xResultatTop5Categorie": false,
+    "xResultatTop5HommesDames": false,
+    "xResultatTj": false,
+    "xResultatLastPoint": false,
+    "xResultatAlphabetique": false,
+    "xTirageAuSort": false
+  },
+  "structureWebResultat": {
+    "xWithPointPassage": false,
+    "xResultatCategorie": false,
+    "xResultatScratch": false,
+    "xResultatHommesDames": false,
+    "xResultatTop5Categorie": false,
+    "xResultatTop5HommesDames": false,
+    "xResultatTj": false,
+    "xResultatLastPoint": false,
+    "xResultatAlphabetique": false,
+    "xTirageAuSort": false
+  },
+  "Path": "C:\\kDrive\\Chrono\\4 Foulées2025\\2 Enfants\\1 Course Enfants 2010 - 2013\\Etape2",
+  "ListNumeroDNF": null,
+  "ID": {
+    "_Value": "2"
+  },
+  "Nom": {
+    "_Value": "Etape2"
+  },
+  "Distance": {
+    "_Value": ""
+  },
+  "Denivelle": {
+    "_Value": ""
+  }
+}

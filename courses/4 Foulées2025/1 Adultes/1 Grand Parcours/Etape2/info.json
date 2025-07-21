@@ -1,0 +1,100 @@
+{
+  "Date": {
+    "_Value": "2025-08-27"
+  },
+  "xContreLaMontre": {
+    "oldValue": false,
+    "Title": "Contre la montre",
+    "Value": false,
+    "VisibilityTitle": 0,
+    "ReadOnly": false
+  },
+  "xClassmeentNombreTour": {
+    "oldValue": false,
+    "Title": "Nombre tour",
+    "Value": false,
+    "VisibilityTitle": 0,
+    "ReadOnly": false
+  },
+  "HeureDepart": {
+    "_Value": "19:00"
+  },
+  "HeureEnd": {
+    "_Value": ""
+  },
+  "Lieu": {
+    "_Value": "Les Breuleux"
+  },
+  "ListDiscipline": {
+    "ListItem": []
+  },
+  "ListPointPassage": {
+    "ListItem": [
+      {
+        "$type": "ChronoV4WPF.ClassPointPassage, ChronoV4WPF",
+        "IdTapis": {
+          "_Value": ""
+        },
+        "EType": 2,
+        "HeureEnd": {
+          "_Value": ""
+        },
+        "ColorDetection": "#FF800080",
+        "HeureStart": {
+          "_Value": "19:15"
+        },
+        "TempsInterpassageSeconde": 30,
+        "ID": {
+          "_Value": "1"
+        },
+        "Nom": {
+          "_Value": "Arrivée"
+        },
+        "Distance": {
+          "_Value": "10.6"
+        },
+        "Denivelle": {
+          "_Value": ""
+        }
+      }
+    ]
+  },
+  "structurePrintResultat": {
+    "xWithPointPassage": false,
+    "xResultatCategorie": false,
+    "xResultatScratch": true,
+    "xResultatHommesDames": false,
+    "xResultatTop5Categorie": false,
+    "xResultatTop5HommesDames": false,
+    "xResultatTj": false,
+    "xResultatLastPoint": false,
+    "xResultatAlphabetique": false,
+    "xTirageAuSort": false
+  },
+  "structureWebResultat": {
+    "xWithPointPassage": false,
+    "xResultatCategorie": true,
+    "xResultatScratch": true,
+    "xResultatHommesDames": true,
+    "xResultatTop5Categorie": false,
+    "xResultatTop5HommesDames": false,
+    "xResultatTj": false,
+    "xResultatLastPoint": false,
+    "xResultatAlphabetique": false,
+    "xTirageAuSort": false
+  },
+  "Path": "C:\\kDrive\\Chrono\\4 Foulées2025\\1 Adultes\\1 Grand Parcours\\Etape2",
+  "ListNumeroDNF": null,
+  "ID": {
+    "_Value": "2"
+  },
+  "Nom": {
+    "_Value": "Etape2"
+  },
+  "Distance": {
+    "_Value": "10 km"
+  },
+  "Denivelle": {
+    "_Value": "230 m"
+  }
+}

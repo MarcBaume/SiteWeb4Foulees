@@ -1,0 +1,216 @@
+﻿
+body
+{
+ /*width: 100%; taille du navigateur  à modifier*/
+
+   margin:20 auto; /* Pour centrer notre page */
+   margin-top: 0px; /* Pour éviter de coller avec le haut de la fenêtre du navigateur. Essayez d'enlever pour voir ! */
+   margin-bottom: 20px;    /* Idem pour le bas du navigateur */
+  /* background:  url("images/fond.jpg")50% 0 no-repeat;*/
+  font:20px arial; 
+
+  /* background-position: center;
+   background-attachment:fixed;  fond d'écran fixe*/
+}
+.chau-philomene-one-regular {
+  font-family: "Chau Philomene One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.chau-philomene-one-regular-italic {
+  font-family: "Chau Philomene One", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.imgCenter
+ {
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+
+ }
+ .titleCenter
+{
+	text-align: center;
+	padding : 10px;
+	font-weight: bold;
+	font-size: 20px;
+	margin-top: 20px;
+	margin-bottom: 5px;
+background: #26c45a;
+}
+ .title
+{
+	padding : 20px;
+	font-weight: bold;
+	font-size: 20px;
+	margin-top: 30px;
+	margin-bottom: 10px;
+background: #1e8ac2;
+ color: Black;
+	padding-left : 30px;
+}
+
+#TableauCat th
+{
+width:auto;
+padding-left : 20px;
+  height: 30px;
+    text-align: left;
+	  border-bottom: 1px solid #ddd;
+}
+#TableauCat tr:nth-child(even) {background-color: #b7f1b9;}
+#en_tete
+{
+ /*margin: auto; */
+  margin: 0 auto;
+ margin-top: 10px;
+width: 1024px;
+ position: center;
+	height: 150px;
+	background:  url("images/baniere6.jpg")  ;
+ background-position:  center ;
+}
+#event tr
+{
+ background: #C0C0C0;
+}
+#corps fieldset
+{
+border:none;
+border-bottom: 1px solid #C0C0C0;
+}
+#menu
+{ 
+    margin:0 auto;
+	margin-top :10px;
+    display: block;
+	position:center;
+    overflow: hidden;
+	width: 1024px;
+	height: 40px;
+    background: rgba(100, 100, 100, 0.8); /* Une couleur de fond pour le corps */
+}
+#menuDeroulant
+{
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ border: 0;
+}
+#menuDeroulant li
+{
+ float: left;
+}
+#menuDeroulant .sousMenu
+{
+display: none;
+list-style-type: none;/* enleve puce*/
+ margin: 0;
+ padding: 0;
+ border: 0;
+}
+#menuDeroulant .sousMenu li
+{
+
+ float: none;
+ margin: 0;
+ padding: 0;
+ border: 0;
+ width: 250px;
+ border-top: 1px solid #fff;
+ border-right: 1px solid #fff;
+}
+#menuDeroulant li a:link, #menuDeroulant li a:visited
+{
+ display: block;
+ height: 1%;
+ color: #FFF;
+ margin: 0;
+ padding: 10px 58px;
+ border-right: 1px solid #fff;
+ text-decoration: none;
+}
+#menuDeroulant li a:hover { background-color: #F2462E; }
+#menuDeroulant li a:active { background-color: #5F879D; }
+
+#menuDeroulant .sousMenu li a:hover
+{
+ background-image: none;
+ background-color: #F2462E;
+}
+#resultat h3
+{
+text-align: left;
+}
+#idDivImage{
+ border: 3px outset #AAAAAA;
+ position: absolute;
+ float: left;
+ display: none;
+ z-index: 100;
+}
+#corps li
+{
+list-style-type: none;/* enleve puce*/
+}
+#corps
+{
+    margin: 0 auto;
+width: 1024px;
+ text-align: center; /* Pour centrer le titre */
+/*margin-top: 15px;*/
+ display: block;
+  position: center;
+   margin-bottom: 20px; /* Ca c'est pour éviter que le corps colle trop au pied de page en-dessous */
+   padding: 1px; /* Pou éviter que le texte à l'intérieur du corps ne colle trop à la bordure */
+   color: Black;
+  background: rgba(255, 255, 255, 0.5); /* Une couleur de fond pour le corps */
+  background-position: center;
+   border: 1px solid #ffffff;
+font:20px arial; /* espace ligne*/
+ text-align: left;
+      line-height: 30px; 
+}
+#sponsors
+{
+  /*margin: auto; */
+  margin: 0 auto;
+ margin-top: 10px;
+width: 1024px;
+ position: center;
+	height: 150px;
+	background:  url("images/sponsors2.png")  ;
+ background-position:  center ;
+}
+ #formulaire
+ {
+font:20px arial;
+ text-align: left;
+ }
+#formulaire p
+ {
+padding:7px;
+ background: #C0C0C0;
+ 
+ }
+ #formulaire  label 
+ {
+  margin :7px;
+  margin-left: 100px;
+	display: block;
+	width: 250px;
+	float: left;
+ }
+ #formulaire input
+ {	
+ font:20px arial;
+ margin :7px;
+  margin-left:50px;
+
+ }
+
+

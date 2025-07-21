@@ -1,0 +1,127 @@
+{
+  "Date": {
+    "_Value": "2025-08-27"
+  },
+  "xContreLaMontre": {
+    "oldValue": false,
+    "Title": "Contre la montre",
+    "Value": false,
+    "VisibilityTitle": 0,
+    "ReadOnly": false
+  },
+  "xClassmeentNombreTour": {
+    "oldValue": false,
+    "Title": "Nombre tour",
+    "Value": false,
+    "VisibilityTitle": 0,
+    "ReadOnly": false
+  },
+  "HeureDepart": {
+    "_Value": "18:00"
+  },
+  "HeureEnd": {
+    "_Value": ""
+  },
+  "Lieu": {
+    "_Value": "Les Breuleux"
+  },
+  "ListDiscipline": {
+    "ListItem": []
+  },
+  "ListPointPassage": {
+    "ListItem": [
+      {
+        "$type": "ChronoV4WPF.ClassPointPassage, ChronoV4WPF",
+        "IdTapis": {
+          "_Value": ""
+        },
+        "EType": 0,
+        "HeureEnd": {
+          "_Value": "19:00:00"
+        },
+        "ColorDetection": "#FFFFFF00",
+        "HeureStart": {
+          "_Value": "18:02"
+        },
+        "TempsInterpassageSeconde": 30,
+        "ID": {
+          "_Value": "1"
+        },
+        "Nom": {
+          "_Value": "Tour 1"
+        },
+        "Distance": {
+          "_Value": ""
+        },
+        "Denivelle": {
+          "_Value": ""
+        }
+      },
+      {
+        "$type": "ChronoV4WPF.ClassPointPassage, ChronoV4WPF",
+        "IdTapis": {
+          "_Value": ""
+        },
+        "EType": 2,
+        "HeureEnd": {
+          "_Value": ""
+        },
+        "ColorDetection": "#FF008000",
+        "HeureStart": {
+          "_Value": "18:05"
+        },
+        "TempsInterpassageSeconde": 30,
+        "ID": {
+          "_Value": "2"
+        },
+        "Nom": {
+          "_Value": "Arrivée"
+        },
+        "Distance": {
+          "_Value": ""
+        },
+        "Denivelle": {
+          "_Value": ""
+        }
+      }
+    ]
+  },
+  "structurePrintResultat": {
+    "xWithPointPassage": false,
+    "xResultatCategorie": true,
+    "xResultatScratch": false,
+    "xResultatHommesDames": false,
+    "xResultatTop5Categorie": false,
+    "xResultatTop5HommesDames": false,
+    "xResultatTj": false,
+    "xResultatLastPoint": false,
+    "xResultatAlphabetique": false,
+    "xTirageAuSort": false
+  },
+  "structureWebResultat": {
+    "xWithPointPassage": false,
+    "xResultatCategorie": false,
+    "xResultatScratch": false,
+    "xResultatHommesDames": false,
+    "xResultatTop5Categorie": false,
+    "xResultatTop5HommesDames": false,
+    "xResultatTj": false,
+    "xResultatLastPoint": false,
+    "xResultatAlphabetique": false,
+    "xTirageAuSort": false
+  },
+  "Path": "C:\\kDrive\\Chrono\\4 Foulées2025\\2 Enfants\\1 Course Enfants 2010 - 2013\\Etape1",
+  "ListNumeroDNF": null,
+  "ID": {
+    "_Value": "1"
+  },
+  "Nom": {
+    "_Value": "Etape1"
+  },
+  "Distance": {
+    "_Value": ""
+  },
+  "Denivelle": {
+    "_Value": ""
+  }
+}

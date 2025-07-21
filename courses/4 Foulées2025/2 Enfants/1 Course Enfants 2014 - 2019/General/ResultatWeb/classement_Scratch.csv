@@ -1,0 +1,104 @@
+Title;Scratch
+Header;pos;N°;Nom; Prénom;Localité;Année;Sexe;Club;Total Temps;Ecart
+Position;1;4011;Jeanbourquin;Noah;Le Noirmont;2014;H;GSFM;EHB;07:20.21;00:00.00
+Etape;1 Etape1;1;03:49.25;00:00.00
+Etape;2 Etape2;2;03:30.96;00:00.57
+Position;2;4017;Surdez;Malo;Le Noirmont;2013;H;GSFM;EHB;07:27.71;00:07.50
+Etape;1 Etape1;2;03:57.32;00:08.07
+Etape;2 Etape2;1;03:30.39;00:00.00
+Position;3;4023;Mercier;Tibau;Le Noirmont;2013;H;GSFM;EHB;07:38.14;00:17.93
+Etape;1 Etape1;3;04:01.96;00:12.71
+Etape;2 Etape2;3;03:36.18;00:05.79
+Position;4;4019;Willemin;Fabien;Saignelégier;2016;H;SC SAIGNELEGIER;EHC;07:56.23;00:36.02
+Etape;1 Etape1;5;04:11.35;00:22.10
+Etape;2 Etape2;5;03:44.88;00:14.49
+Position;5;4039;Jourdain;Maxime;Les Bois;2014;H;LES BOIS;EHB;08:03.08;00:42.87
+Etape;1 Etape1;7;04:16.13;00:26.88
+Etape;2 Etape2;6;03:46.95;00:16.56
+Position;6;4018;Willemin;Elodie;Saignelegier;2015;D;SC SAIGNELEGIER;EFC;08:09.92;00:49.71
+Etape;1 Etape1;6;04:15.23;00:25.98
+Etape;2 Etape2;8;03:54.69;00:24.30
+Position;7;4020;Willemin;Thibaut;Saignelégier;2016;H;;EHC;08:11.21;00:51.00
+Etape;1 Etape1;8;04:18.68;00:29.43
+Etape;2 Etape2;7;03:52.53;00:22.14
+Position;8;4014;Montagnat-Rentier;Gaël;Renan;2015;H;GSFM;EHC;08:27.08;01:06.87
+Etape;1 Etape1;9;04:29.87;00:40.62
+Etape;2 Etape2;9;03:57.21;00:26.82
+Position;9;4008;Gentile;Sophie;Les Bois;2014;D;GSFM;EFB;08:33.74;01:13.53
+Etape;1 Etape1;10;04:32.42;00:43.17
+Etape;2 Etape2;10;04:01.32;00:30.93
+Position;10;4049;Donzé;Marisa;Les Breuleux;2015;D;;EFC;08:49.91;01:29.70
+Etape;1 Etape1;12;04:44.03;00:54.78
+Etape;2 Etape2;13;04:05.88;00:35.49
+Position;11;4048;Donzé;Eliott;Les Breuleux;2014;H;;EHB;08:52.37;01:32.16
+Etape;1 Etape1;13;04:49.55;01:00.30
+Etape;2 Etape2;12;04:02.82;00:32.43
+Position;12;4044;Frelechox;Corentin;Delemont;2017;H;DELEMONT;EHC;09:17.75;01:57.54
+Etape;1 Etape1;14;04:50.21;01:00.96
+Etape;2 Etape2;17;04:27.54;00:57.15
+Position;13;4029;Thonon;Leila;Le Noirmont;2015;D;;EFC;09:31.55;02:11.34
+Etape;1 Etape1;21;05:11.21;01:21.96
+Etape;2 Etape2;15;04:20.34;00:49.95
+Position;14;4037;Chaignat;Marion;Saignelegier;2015;D;SC SAIGNELEGIER;EFC;09:40.76;02:20.55
+Etape;1 Etape1;22;05:14.30;01:25.05
+Etape;2 Etape2;16;04:26.46;00:56.07
+Position;15;4006;Chapatte;Lukas;Les Bois;2017;H;FSG Les Bois;EHC;09:57.88;02:37.67
+Etape;1 Etape1;16;05:02.18;01:12.93
+Etape;2 Etape2;26;04:55.70;01:25.31
+Position;16;4046;Jeanbourquin;Ilana;Les Bois;2014;D;GSFM;EFB;10:08.78;02:48.57
+Etape;1 Etape1;18;05:06.86;01:17.61
+Etape;2 Etape2;32;05:01.92;01:31.53
+Position;17;4025;Hostettler;Lily;Courtedoux;2014;D;;EFB;10:11.47;02:51.26
+Etape;1 Etape1;24;05:19.22;01:29.97
+Etape;2 Etape2;25;04:52.25;01:21.86
+Position;18;4009;Gigon;Léana;Les Pommerats;2015;D;;EFC;10:12.49;02:52.28
+Etape;1 Etape1;23;05:15.08;01:25.83
+Etape;2 Etape2;28;04:57.41;01:27.02
+Position;19;4034;Quinche;Sara;Le Noirmont;2014;D;;EFB;10:14.00;02:53.79
+Etape;1 Etape1;20;05:10.49;01:21.24
+Etape;2 Etape2;34;05:03.51;01:33.12
+Position;20;4040;Berger;Lisa;Les Bois;2016;D;;EFC;10:14.92;02:54.71
+Etape;1 Etape1;17;05:05.39;01:16.14
+Etape;2 Etape2;37;05:09.53;01:39.14
+Position;21;4031;Boillat;Maïlys;Saignelégier;2015;D;;EFC;10:26.48;03:06.27
+Etape;1 Etape1;25;05:26.30;01:37.05
+Etape;2 Etape2;29;05:00.18;01:29.79
+Position;22;4016;Schlüchter;Louis;Les Bois;2017;H;GSFM;EHC;10:45.43;03:25.22
+Etape;1 Etape1;26;05:34.07;01:44.82
+Etape;2 Etape2;39;05:11.36;01:40.97
+Position;23;4041;Jourdain;Louise;Les Bois;2018;D;;EFC;10:47.59;03:27.38
+Etape;1 Etape1;28;05:46.37;01:57.12
+Etape;2 Etape2;30;05:01.22;01:30.83
+Position;24;4036;Jeanmaire;Maé;Les Bois;2017;D;;EFC;10:56.84;03:36.63
+Etape;1 Etape1;27;05:38.18;01:48.93
+Etape;2 Etape2;43;05:18.66;01:48.27
+Position;25;4027;Hostettler;Ayden;Courtedoux;2016;H;;EHC;11:23.83;04:03.62
+Etape;1 Etape1;35;06:16.79;02:27.54
+Etape;2 Etape2;36;05:07.04;01:36.65
+Position;26;4033;Trummer;Askya;Les Breuleux;2018;D;;EFC;11:36.14;04:15.93
+Etape;1 Etape1;34;06:10.13;02:20.88
+Etape;2 Etape2;44;05:26.01;01:55.62
+Position;27;4032;Thol ;Sreymey ;Les Breuleux ;2018;D;GSFM ;EFC;11:38.57;04:18.36
+Etape;1 Etape1;32;06:04.73;02:15.48
+Etape;2 Etape2;46;05:33.84;02:03.45
+Position;28;4002;Andrié;Gaëtan;Le Noirmont;2016;H;;EHC;11:47.57;04:27.36
+Etape;1 Etape1;33;06:07.61;02:18.36
+Etape;2 Etape2;49;05:39.96;02:09.57
+Position;29;4024;Stauffer;Annie;La Chaux-De Fonds;2016;D;;EFC;12:14.45;04:54.24
+Etape;1 Etape1;36;06:21.95;02:32.70
+Etape;2 Etape2;52;05:52.50;02:22.11
+Position;30;4003;Andrié;Lionel;Le Noirmont;2014;H;;EHB;12:15.37;04:55.16
+Etape;1 Etape1;42;06:58.76;03:09.51
+Etape;2 Etape2;42;05:16.61;01:46.22
+Position;31;4021;Zennaro;Damiano;Le Noirmont;2019;H;;EHC;12:24.49;05:04.28
+Etape;1 Etape1;40;06:52.43;03:03.18
+Etape;2 Etape2;45;05:32.06;02:01.67
+Position;32;4005;Brandt;Gaïa;Les Bois;2018;D;—;EFC;12:54.64;05:34.43
+Etape;1 Etape1;37;06:23.57;02:34.32
+Etape;2 Etape2;56;06:31.07;03:00.68
+Position;33;4001;Andrié;Antoine;Le Noirmont;2018;H;;EHC;13:26.80;06:06.59
+Etape;1 Etape1;45;07:46.79;03:57.54
+Etape;2 Etape2;50;05:40.01;02:09.62
+Position;34;4026;Guenot;Mélinda;Goumois;2017;D;;EFC;13:33.53;06:13.32
+Etape;1 Etape1;44;07:13.52;03:24.27
+Etape;2 Etape2;55;06:20.01;02:49.62

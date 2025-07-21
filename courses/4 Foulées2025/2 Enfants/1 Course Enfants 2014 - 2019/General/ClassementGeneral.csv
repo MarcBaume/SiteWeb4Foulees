@@ -1,0 +1,32 @@
+EHC Ecoliers C
+pos;Nom; Prénom;Localité;Année;Sexe;Club;Total Temps;écart
+1;Willemin;Fabien;Saignelégier;2016;H;SC SAIGNELEGIER;07:56.23;00:00.00
+2;Willemin;Thibaut;Saignelégier;2016;H;;08:11.21;00:14.98
+3;Montagnat-Rentier;Gaël;Renan;2015;H;GSFM;08:27.08;00:30.85
+4;Frelechox;Corentin;Delemont;2017;H;DELEMONT;09:17.75;01:21.52
+5;Chapatte;Lukas;Les Bois;2017;H;FSG Les Bois;09:57.88;02:01.65
+%
+EFC Ecolières C
+pos;Nom; Prénom;Localité;Année;Sexe;Club;Total Temps;écart
+1;Willemin;Elodie;Saignelegier;2015;D;SC SAIGNELEGIER;08:09.92;00:00.00
+2;Donzé;Marisa;Les Breuleux;2015;D;;08:49.91;00:39.99
+3;Thonon;Leila;Le Noirmont;2015;D;;09:31.55;01:21.63
+4;Chaignat;Marion;Saignelegier;2015;D;SC SAIGNELEGIER;09:40.76;01:30.84
+5;Gigon;Léana;Les Pommerats;2015;D;;10:12.49;02:02.57
+%
+EHB Ecoliers B
+pos;Nom; Prénom;Localité;Année;Sexe;Club;Total Temps;écart
+1;Jeanbourquin;Noah;Le Noirmont;2014;H;GSFM;07:20.21;00:00.00
+2;Surdez;Malo;Le Noirmont;2013;H;GSFM;07:27.71;00:07.50
+3;Mercier;Tibau;Le Noirmont;2013;H;GSFM;07:38.14;00:17.93
+4;Jourdain;Maxime;Les Bois;2014;H;LES BOIS;08:03.08;00:42.87
+5;Donzé;Eliott;Les Breuleux;2014;H;;08:52.37;01:32.16
+%
+EFB Ecolières B
+pos;Nom; Prénom;Localité;Année;Sexe;Club;Total Temps;écart
+1;Gentile;Sophie;Les Bois;2014;D;GSFM;08:33.74;00:00.00
+2;Jeanbourquin;Ilana;Les Bois;2014;D;GSFM;10:08.78;01:35.04
+3;Hostettler;Lily;Courtedoux;2014;D;;10:11.47;01:37.73
+4;Quinche;Sara;Le Noirmont;2014;D;;10:14.00;01:40.26
+%
+$

@@ -1,0 +1,100 @@
+{
+  "Date": {
+    "_Value": "2025-09-10"
+  },
+  "xContreLaMontre": {
+    "oldValue": false,
+    "Title": "Contre la montre",
+    "Value": false,
+    "VisibilityTitle": 0,
+    "ReadOnly": false
+  },
+  "xClassmeentNombreTour": {
+    "oldValue": false,
+    "Title": "Nombre tour",
+    "Value": false,
+    "VisibilityTitle": 0,
+    "ReadOnly": false
+  },
+  "HeureDepart": {
+    "_Value": " 19:00"
+  },
+  "HeureEnd": {
+    "_Value": ""
+  },
+  "Lieu": {
+    "_Value": "Le Noirmont"
+  },
+  "ListDiscipline": {
+    "ListItem": []
+  },
+  "ListPointPassage": {
+    "ListItem": [
+      {
+        "$type": "ChronoV4WPF.ClassPointPassage, ChronoV4WPF",
+        "IdTapis": {
+          "_Value": ""
+        },
+        "EType": 2,
+        "HeureEnd": {
+          "_Value": ""
+        },
+        "ColorDetection": "#FFFFD700",
+        "HeureStart": {
+          "_Value": "19:30"
+        },
+        "TempsInterpassageSeconde": 30,
+        "ID": {
+          "_Value": "1"
+        },
+        "Nom": {
+          "_Value": "Arrivée"
+        },
+        "Distance": {
+          "_Value": "9.8"
+        },
+        "Denivelle": {
+          "_Value": ""
+        }
+      }
+    ]
+  },
+  "structurePrintResultat": {
+    "xWithPointPassage": false,
+    "xResultatCategorie": false,
+    "xResultatScratch": false,
+    "xResultatHommesDames": false,
+    "xResultatTop5Categorie": true,
+    "xResultatTop5HommesDames": true,
+    "xResultatTj": false,
+    "xResultatLastPoint": false,
+    "xResultatAlphabetique": false,
+    "xTirageAuSort": false
+  },
+  "structureWebResultat": {
+    "xWithPointPassage": false,
+    "xResultatCategorie": true,
+    "xResultatScratch": true,
+    "xResultatHommesDames": true,
+    "xResultatTop5Categorie": false,
+    "xResultatTop5HommesDames": false,
+    "xResultatTj": false,
+    "xResultatLastPoint": false,
+    "xResultatAlphabetique": false,
+    "xTirageAuSort": false
+  },
+  "Path": "C:\\kDrive\\Chrono\\4 Foulées2025\\1 Adultes\\1 Grand Parcours\\Etape4",
+  "ListNumeroDNF": null,
+  "ID": {
+    "_Value": "4"
+  },
+  "Nom": {
+    "_Value": "Etape4"
+  },
+  "Distance": {
+    "_Value": "10.6 km"
+  },
+  "Denivelle": {
+    "_Value": "180 m"
+  }
+}
