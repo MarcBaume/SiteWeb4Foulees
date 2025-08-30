@@ -48,9 +48,9 @@
 	<table style="width:100%">
 			<tr>
 				<td style="text-align: center">
-					<a style= "padding: 10px;margin:auto;" href="https://juradefichrono.ch/formulaire2023.php?NbrEtape=4&DateCourse=2025-08-20&Etape=1&NomCourse=4+Foul%C3%A9es&ID=142
-			" target="_blank"><img src="images/logo inscription 4f.png" alt="Inscription ici" style="margin:auto;"></img></a>
-				</td>
+						<a style= "padding: 10px;margin:auto;" href="https://defichrono.ch/Resultat2023.php?NbrEtape=4&DateCourse=2025-08-20&Etape=1&NomCourse=4+Foul%C3%A9es&ID=142.php"
+			target="_blank"><img src="images/logo resultats 4f.png"  style="margin:auto;"></img></a>
+						</td>
 			</tr>
 		<tr>
 			<td style="text-align: center">
@@ -68,9 +68,17 @@
 				<img style= "padding: 10px; margin: auto;width: 85%;" src="images/vignette 4f parcours.png" ></img>
 			</td>
 		</tr>
-				<tr>
+		<tr>
 			<td style="text-align: center" >
 				<img style= "padding: 10px; margin: auto;width: 85%;" src="images/vignette 4f ambiance.png" ></img>
+			</td>
+		</tr>
+				<tr>
+			<td style="text-align: center;cursor:pointer;" >
+
+<a  style= "padding: 10px; margin: auto;width: 85%;" href="doc/FormulaireInscriptionEntreprise2025.xlsx"
+			target="_blank"><img style= "padding: 10px; margin: auto;width: 100%;" src="images/4FEquipes.png" ></img>
+</a>
 			</td>
 		</tr>
 		<tr>
@@ -576,10 +584,7 @@ Ces vidéos ont été réalisé par ©Fausto Fragnoli <br\>
  </fieldset>
  -->
 <p>
-		<a style= "padding: 10px;margin:auto;" href="resultat.php"
-			target="_blank"><img src="images/logo resultats 4f.png"  style="margin:auto;"></img></a>
-				<a style= "padding: 10px;margin:auto;" href="https://juradefichrono.ch/Photos.php?Etape=0&NbrEtape=4&DateCourse=2024-08-21&NomCourse=4+Foul%C3%A9es"
-			target="_blank"><img src="images/logo photos 4f.png"  style="margin:auto;"></img></a>
+
 			</br></br>
  les 4 ski club vous souhaitent une bonne course à tous!
 
